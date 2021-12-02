@@ -1,5 +1,5 @@
 {
-    "wathc": [
+    "watch": [
         "src"
     ],
     "ext": "ts",
